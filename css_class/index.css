@@ -1,0 +1,27 @@
+.p{
+    background-color: darkgoldenrod;
+    border: 5px yellow solid;
+    color: #ffe8d6;
+}
+#css-color{
+    color: #121306;
+    /* background-color: black; */
+    font-style: italic;
+    font-size: 14px;
+    font-family: 'Roboto Slab', serif;
+    text-decoration:underline;
+    text-transform: capitalize;
+    
+}
+#headingtag{
+    text-align:start;
+}
+
+div{
+    border:1px black solid ;
+}
+
+#paragraph{
+    background-color: aqua;
+    border: 10px;
+}
