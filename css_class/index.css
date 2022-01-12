@@ -1,6 +1,6 @@
-/* *{
-    pre:val;
-} */
+*{
+    background-color: green;
+}
 /* body{
     background-image: url("https://image.shutterstock.com/image-photo/wooden-calendar-january-31st-cup-600w-1233204301.jpg");
     background-repeat: repeat-y;
@@ -39,14 +39,15 @@ div{
     text-align: center;
 }
 /* (top,right,bottom,left */
-.div1{
+/* .div1{
+    pass
     /* width: 400px; */
     /* height: 300px; */
-    border: 1px gray solid;
+    /* border: 1px gray solid;
     padding: 2px 1px 2px 1px;
-    font-size: 2px;
+    font-size: 12px; */
     /* margin: 0px 0px 0px 100px; */
-    margin-left: 100px;
+    /* margin-left: 100px; */
     /* border-radius: 50%; */
 }
 /* .circle,.circle1, #circle2{
@@ -101,4 +102,20 @@ li{
     display: none;
     background-color: rgb(18, 44, 67);
     padding: 30px 30px;
+}
+/* #new-id::first-line{
+    background-color: green;
+
+} */
+/* p::first-letter{
+    text-transform: capitalize;
+    background-color: yellow;
+    font-size: xx-large;
+} */
+p::grammar-error{
+    background-color: yellow;
+    text-decoration: underline;
+}
+p::spelling-error{
+    background-color: yellow;
 }
