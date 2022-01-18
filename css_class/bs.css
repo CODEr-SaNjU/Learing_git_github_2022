@@ -1,4 +1,9 @@
-/* .h1{
-    width: 30px;
-    height: 40px;
-} */
+.center{
+    text-align: center;
+}
+.color{
+    color: rgb(54, 110, 110);
+}
+.bg{
+    background-color: rgb(199, 151, 199);
+}
